@@ -1,0 +1,19 @@
+{
+  "name": "gentest",
+  "version": "1.0.0",
+  "main": "gentest.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "quack": "^0.3.0"
+  }
+}
